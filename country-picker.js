@@ -229,7 +229,7 @@ angular.module('puigcerber.countryPicker',[])
       {"name":"Sweden","alpha2":"SE","alpha3":"SWE","numeric":"752"},
       {"name":"Switzerland","alpha2":"CH","alpha3":"CHE","numeric":"756"},
       {"name":"Syrian Arab Republic","alpha2":"SY","alpha3":"SYR","numeric":"760"},
-      {"name":"Taiwan (Province of China)","alpha2":"TW","alpha3":"TWN","numeric":"158"},
+      {"name":"Taiwan","alpha2":"TW","alpha3":"TWN","numeric":"158"},
       {"name":"Tajikistan","alpha2":"TJ","alpha3":"TJK","numeric":"762"},
       {"name":"Tanzania, United Republic of","alpha2":"TZ","alpha3":"TZA","numeric":"834"},
       {"name":"Thailand","alpha2":"TH","alpha3":"THA","numeric":"764"},
